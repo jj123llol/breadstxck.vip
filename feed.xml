@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Master gypt Podcast</title>
-    <link>https://breadstxck.vip/test</link>
+    <link>https://breadstxck.vip/</link>
     <description>A podcast featuring Master gypt.</description>
     <language>en-us</language>
     
@@ -11,7 +11,7 @@
       <description>The latest audio from Master gypt.</description>
       <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
       <!-- Replace the URL below with the actual link to your hosted mp3 -->
-      <enclosure url="https://breadstxck.vip/Master%20gypt" length="12345678" type="audio/mpeg" />
+      <enclosure url="https://breadstxck.vip/Master%20gypt.mp3" length="12345678" type="audio/mpeg" />
       <guid isPermaLink="false">master-gypt-ep1</guid>
     </item>
   </channel>
