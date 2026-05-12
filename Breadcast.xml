@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Bread Cast</title>
+    <link>https://breadstxck.vip</link>
+    <description>The breadcast.</description>
+    <language>en-us</language>
+    
+    <item>
+      <title>Idk Yet / Episode 1</title>
+      <description>Not released</description>
+      <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
+      <enclosure url="https://notoutuet" length="12345678" type="audio/mpeg" />
+      <guid isPermaLink="false">not-out-yet</guid>
+    </item>
+    
+  </channel>
+</rss>
